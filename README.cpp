@@ -1,4 +1,3 @@
-# tictactoe-cpp-project
 #include <iostream>
 #include <cstdlib>
 #include <ctime>
